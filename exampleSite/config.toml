@@ -1,4 +1,4 @@
-baseURL = "https://raviraja-test.com"
+baseURL = "https://raviraja-test-netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
